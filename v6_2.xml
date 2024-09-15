@@ -8,7 +8,7 @@
     <copyfile src="Makefile" dest="Makefile" />
   </project>
 
-  <project path="Video" name="aos-Video" revision="v6.2" />
+  <project path="Video" name="aos-Video" revision="31f29c74b9c3760e6945603a4295b0a17cef6e81" />
   <project path="MediaLib" name="aos-MediaLib" revision="v6.2" />
   <project path="FileCoreLibrary" name="aos-FileCoreLibrary" revision="v6.2" />
 
